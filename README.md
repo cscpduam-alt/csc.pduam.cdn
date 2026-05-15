@@ -11,7 +11,6 @@ Images and media assets stored here are served via [jsDelivr](https://www.jsdeli
 ```
 csc.pduam.cdn/
 └── uploads/
-     images/
         ├── gallery/        → all gallery photos
         ├── events/         → event posters & photos
         ├── faculty/        → faculty profile photos
@@ -22,12 +21,12 @@ csc.pduam.cdn/
         ├── index/          → homepage slideshow/banner images
         └── og/             → og-image.jpg, og-image.png
 
-    ├── files/
-    │   ├── notifications/  → all PDFs (notices, circulars)
-    │    │                     2245-202408191302..., DdIGILIFE_Wall_magaz...
-    │    └── documents/      → any other downloadable files
-    └── assets/
-        └── logos/            # Department logos & branding
+         ├── files/
+         │   ├── notifications/  → all PDFs (notices, circulars)
+         │   │                     2245-202408191302..., DdIGILIFE_Wall_magaz...
+         │   └── documents/      → any other downloadable files
+         └── assets/
+             └── logos/            # Department logos & branding
 ```
 
 ---
